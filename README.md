@@ -1,462 +1,379 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:4F46E5,50:7C3AED,100:2563EB&text=KESAVAN%20M&fontSize=55&fontAlign=50&fontAlignY=38&fontColor=ffffff&desc=Software%20Engineer%20•%20AI%20Engineer%20•%20Full%20Stack%20Developer&descSize=20&descAlign=50&descAlignY=58&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:8B0000,25:B22222,50:DC143C,75:FF4D6D,100:FF7F50&text=KESAVAN%20M&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer&descAlignY=63&descSize=18"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=7C3AED&center=true&vCenter=true&width=900&lines=Software+Engineer;AI+Engineer;Python+Developer;FastAPI+%7C+Next.js+Developer;RAG+%7C+LLMs+%7C+OpenAI;Building+Scalable+AI+Applications)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=20&duration=3000&pause=1000&color=DC143C&center=true&vCenter=true&width=850&lines=Building+Scalable+Software+Applications;Backend+Engineering+with+Python;FastAPI+%7C+Next.js+%7C+PostgreSQL;Artificial+Intelligence+Applications;OpenAI+%7C+LLMs+%7C+RAG)](https://git.io/typing-svg)
 
-<p>
-
-<a href="https://github.com/Kesavan714">
-<img src="https://img.shields.io/github/followers/Kesavan714?label=Followers&logo=github&style=for-the-badge"/>
-</a>
-
-<img src="https://komarev.com/ghpvc/?username=Kesavan714&label=Profile%20Views&style=for-the-badge&color=7C3AED"/>
+<br>
 
 <a href="https://github.com/Kesavan714">
-<img src="https://img.shields.io/github/stars/Kesavan714?affiliations=OWNER&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/GitHub-Kesavan714-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-</p>
+<a href="https://www.linkedin.com/in/kesavan-m-24a2ab250">
+<img src="https://img.shields.io/badge/LinkedIn-Kesavan_M-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:kesavan1446@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-kesavan1446%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 </div>
 
 ---
 
-# 👋 Hello World!
+# 💼 Professional Summary
 
-```python
-class Kesavan:
-
-    def __init__(self):
-
-        self.name = "Kesavan M"
-
-        self.role = "Software Engineer"
-
-        self.location = "Chennai, India"
-
-        self.languages = [
-            "Python",
-            "JavaScript",
-            "TypeScript",
-            "SQL"
-        ]
-
-        self.interests = [
-            "Artificial Intelligence",
-            "Backend Development",
-            "Full Stack Development",
-            "Open Source"
-        ]
-
-        self.currently_building = [
-            "AIDataEngineer",
-            "LeetData AI",
-            "AI Learning Platform"
-        ]
-
-    def say_hi(self):
-        print("Thanks for visiting my GitHub profile!")
-
-me = Kesavan()
-me.say_hi()
-```
+> [!IMPORTANT]
+>
+> ## Software Engineer
+>
+> I am a **Software Engineer** passionate about designing scalable, reliable, and high-performance software solutions that solve real-world problems.
+>
+> My expertise includes **Python, FastAPI, Next.js, PostgreSQL, REST APIs, OpenAI APIs, Generative AI, and Retrieval-Augmented Generation (RAG)**. I enjoy building clean architectures, developing production-ready applications, integrating AI capabilities into modern software, and delivering solutions with a strong focus on performance, maintainability, and user experience.
+>
+> I continuously explore emerging technologies and software engineering best practices to build intelligent, efficient, and scalable applications.
 
 ---
 
-# 💫 About Me
+# 🚀 Current Focus
 
-🚀 Software Engineer passionate about building intelligent software powered by Artificial Intelligence.
-
-I enjoy creating scalable applications using **Python, FastAPI, Next.js, PostgreSQL, OpenAI APIs, RAG and Vector Databases**.
-
-Currently working on production-grade AI products including intelligent search engines, AI learning systems, and LLM-powered applications.
-
----
-
-## 🔥 What I'm Working On
-
-- 🤖 AI Learning Platform
-- 🔍 Semantic Search
-- 🧠 Retrieval-Augmented Generation (RAG)
-- ⚡ FastAPI Microservices
-- 🌐 Next.js Applications
-- 🚀 AI Agents
-- ☁ Cloud Deployments
+- 🤖 Building AI-powered software applications
+- ⚡ Backend Engineering with Python & FastAPI
+- 🌐 Developing scalable Next.js applications
+- 🧠 Working with Large Language Models (LLMs)
+- 🔍 Retrieval-Augmented Generation (RAG)
+- ☁️ Learning Cloud Architecture & Kubernetes
 
 ---
 
-## 🌱 Currently Learning
+# 🌱 Currently Learning
 
-- Multi-Agent AI Systems
+- AI Agents
 - LangGraph
 - Kubernetes
 - AWS Cloud
 - System Design
-- AI Infrastructure
+- Distributed Systems
 
 ---
 
-## 💬 Ask Me About
+# 💬 Ask Me About
 
-- Python
-- FastAPI
-- Next.js
-- OpenAI
-- LangChain
-- PostgreSQL
-- RAG
-- REST APIs
-- AI Agents
-
----
-
-## 📫 Reach Me
-
-📧 **Email**
-
-> **kesavan1446@gmail.com**
-
-🌍 **GitHub**
-
-https://github.com/Kesavan714
-
-💼 **LinkedIn**
-
-https://www.linkedin.com/in/kesavan-m-24a2ab250
-
----
-
-## ⚡ Fun Fact
-
-> "I enjoy solving real-world problems with AI more than solving puzzles."
-
----
----
-
-# 🌐 Connect With Me
-
-<div align="center">
-
-<a href="mailto:kesavan1446@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/kesavan-m-24a2ab250">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Kesavan714">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-</div>
-
----
-
-# 💻 Tech Stack
-
-<div align="center">
-
-### 👨‍💻 Languages
-
-<img src="https://skillicons.dev/icons?i=python,js,ts,java,c,cpp,html,css" />
-
-<br><br>
-
-### 🎨 Frontend Development
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,vite" />
-
-<br><br>
-
-### ⚙️ Backend Development
-
-<img src="https://skillicons.dev/icons?i=fastapi,django,nodejs,flask" />
-
-<br><br>
-
-### 🗄️ Databases
-
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
-
-<br><br>
-
-### ☁️ Cloud & DevOps
-
-<img src="https://skillicons.dev/icons?i=aws,docker,cloudflare,git,github" />
-
-<br><br>
-
-### 🛠️ Development Tools
-
-<img src="https://skillicons.dev/icons?i=vscode,postman,figma,linux" />
-
-</div>
-
----
-
-# 🤖 AI & Machine Learning
-
-<div align="center">
-
-| Technology | Experience |
-|------------|------------|
-| 🤖 OpenAI API | ⭐⭐⭐⭐⭐ |
-| 🧠 Large Language Models | ⭐⭐⭐⭐⭐ |
-| 🔍 Retrieval-Augmented Generation (RAG) | ⭐⭐⭐⭐⭐ |
-| 🔗 LangChain | ⭐⭐⭐⭐☆ |
-| 💬 Prompt Engineering | ⭐⭐⭐⭐⭐ |
-| 🚀 AI Agents | ⭐⭐⭐⭐☆ |
-| 📚 Semantic Search | ⭐⭐⭐⭐⭐ |
-| 🔎 Vector Search | ⭐⭐⭐⭐⭐ |
-| 🧩 PostgreSQL (pgvector) | ⭐⭐⭐⭐☆ |
-| 🧠 TensorFlow | ⭐⭐⭐⭐☆ |
-
-</div>
-
----
-
-# 🛠 Frameworks & Libraries
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,fastapi,django,tailwind,tensorflow" />
-
-</div>
-
-### I enjoy building with
-
-- 🚀 FastAPI
-- ⚛️ Next.js
 - 🐍 Python
-- 🎨 Tailwind CSS
+- ⚡ FastAPI
+- 🌐 Next.js
+- 🗄 PostgreSQL
+- 🔗 REST APIs
 - 🤖 OpenAI APIs
-- 🔗 LangChain
-- 🧠 TensorFlow
-- 📊 PostgreSQL
-- ☁️ Cloudflare Workers
+- 🧠 Generative AI
+- 🏗 Software Architecture
 
 ---
 
-# 📚 Currently Exploring
+> 💡 **"Building reliable software today while engineering intelligent solutions for tomorrow."**
 
-```text
-Artificial Intelligence
-    │
-    ├── LLM Engineering
-    ├── AI Agents
-    ├── LangGraph
-    ├── MCP
-    ├── Prompt Engineering
-    └── Vector Databases
+---
+---
 
-Backend
-    │
-    ├── FastAPI
-    ├── REST APIs
-    ├── Authentication
-    ├── PostgreSQL
-    └── Microservices
+# 🛠️ Technical Skills
 
-Frontend
-    │
-    ├── Next.js
-    ├── React
-    ├── Tailwind CSS
-    └── TypeScript
-```
+## 👨‍💻 Programming Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js,ts" />
+</p>
+
+**Python • SQL • JavaScript • TypeScript**
 
 ---
 
-# 💼 Professional Skills
+## 🌐 Frontend Development
 
-### 💻 Software Development
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
+</p>
 
-```text
-Python               ████████████████████ 95%
-
-FastAPI              ██████████████████░ 90%
-
-Next.js              ██████████████████░ 90%
-
-React                █████████████████░░ 88%
-
-SQL                  █████████████████░░ 88%
-
-TypeScript           ████████████████░░░ 85%
-```
+**React.js • Next.js • Tailwind CSS**
 
 ---
 
-### 🤖 AI Skills
+## ⚙️ Backend Development
 
-```text
-OpenAI API           ████████████████████ 95%
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi,django" />
+</p>
 
-RAG                  ███████████████████░ 92%
-
-Prompt Engineering   ███████████████████░ 92%
-
-Semantic Search      ███████████████████░ 92%
-
-LangChain            █████████████████░░░ 85%
-
-TensorFlow           ████████████████░░░░ 80%
-```
+**FastAPI • Django • REST API Development**
 
 ---
 
-# ⚡ Development Environment
+# 🤖 Artificial Intelligence
 
-```yaml
-Editor:
-  - VS Code
-  - Cursor AI
-
-Operating System:
-  - Windows
-  - Linux
-  - macOS
-
-Version Control:
-  - Git
-  - GitHub
-
-Database:
-  - PostgreSQL
-  - SQL Server
-  - MongoDB
-
-Cloud:
-  - AWS
-  - Cloudflare
-
-API Testing:
-  - Postman
-```
+- Generative AI
+- OpenAI API
+- Large Language Models (LLMs)
+- LangChain
+- Retrieval-Augmented Generation (RAG)
+- Semantic Search
+- AI Chatbot Development
+- Vector Database Integration
+- Prompt Engineering
 
 ---
 
-# 🎯 Core Expertise
+## 🗄️ Databases
 
-✔ Artificial Intelligence
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres" />
+</p>
 
-✔ Large Language Models (LLMs)
+- PostgreSQL (pgvector)
+- SQL Server
 
-✔ Retrieval-Augmented Generation (RAG)
+---
 
-✔ AI Agents
+## ☁️ Cloud, Deployment & Platforms
 
-✔ Backend Development
+- Cloudflare Workers
+- Render
+- IIS (Microsoft Internet Information Services)
 
-✔ Full Stack Development
+---
 
-✔ REST API Development
+## 🧰 Development Tools
 
-✔ Semantic Search
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman" />
+</p>
 
-✔ PostgreSQL (pgvector)
+- VS Code
+- Git
+- GitHub
+- Postman
+- DBeaver
+- Cursor AI
 
-✔ Production AI Applications
+---
+
+# 💼 Technical Expertise
+
+| Category | Technologies |
+|-----------|--------------|
+| **Programming Languages** | Python, SQL, JavaScript, TypeScript |
+| **Frontend Development** | React.js, Next.js, Tailwind CSS |
+| **Backend Development** | FastAPI, Django, REST APIs |
+| **Generative AI** | OpenAI API, Large Language Models (LLMs), LangChain, Prompt Engineering |
+| **AI Solutions** | Retrieval-Augmented Generation (RAG), Semantic Search, AI Chatbot Development, Vector Database Integration |
+| **Databases** | PostgreSQL (pgvector), SQL Server |
+| **Cloud & Deployment** | Cloudflare Workers, Render, IIS |
+| **Development Tools** | Git, GitHub, Postman, DBeaver, Cursor AI , Vs code|
+
+---
+
+# 🚀 Core Competencies
+
+<table>
+<tr>
+
+<td width="50%">
+
+### 💻 Software Engineering
+
+- Backend Development
+- Full Stack Development
+- REST API Development
+- API Integration
+- Database Integration
+- Scalable Web Applications
+- Software Architecture
+
+</td>
+
+<td width="50%">
+
+### 🤖 Artificial Intelligence
+
+- Generative AI Applications
+- OpenAI API Integration
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- LangChain
+- AI Chatbot Development
+- Semantic Search
+- Vector Search
+
+</td>
+
+</tr>
+</table>
+
+
+# 💡 Areas of Interest
+
+- Artificial Intelligence
+- Generative AI
+- Software Engineering
+- Backend Development
+- Full Stack Development
+- Intelligent Search Systems
+- AI-powered Applications
+
+---
+
+# 📈 Engineering Focus
+
+- Designing Scalable Software
+- Building Production-Ready Applications
+- REST API Development
+- Generative AI Solutions
+- Intelligent Search Platforms
+- Continuous Learning
 
 ---
 ---
 
 # 🚀 Featured Projects
 
-## 🤖 AIDataEngineer – AI Learning & Search Platform
+<details open>
+<summary><b>🤖 AIDataEngineer – AI-Powered Learning & Search Platform</b></summary>
 
-> **An AI-powered learning platform built for Data Engineers using LLMs, RAG, Hybrid Search, and Semantic Search.**
+<br>
 
-### 🔹 Key Features
+### 📖 Overview
 
-- 🔍 Hybrid Search Engine
-- 🤖 AI Learning Agent
-- 📚 Intelligent Article Retrieval
-- 🧠 Semantic Search using pgvector
-- 🚀 FastAPI REST APIs
-- 🎯 Personalized Learning Experience
-- 🔐 Authentication & User Management
-- 📈 Learning Analytics
-- ☁ Production Deployment
+AIDataEngineer is an intelligent learning platform that combines AI-powered search, Retrieval-Augmented Generation (RAG), and personalized learning experiences for data engineering professionals.
 
-### ⚙ Tech Stack
+### ✨ Key Features
 
-<p>
+- 🔍 Hybrid Search & Semantic Search
+- 🤖 AI Learning Assistant
+- 📚 Personalized Learning Paths
+- 💬 AI Chat Interface
+- 🔐 Authentication & Subscription System
+- 📊 Interactive Learning Dashboard
+- ⚡ REST API Integration
+- ☁️ Production Deployment
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,nextjs,postgres,docker,git"/>
+### 🛠 Tech Stack
 
-</p>
-
-| Category | Technology |
-|----------|------------|
+| Category | Technologies |
+|-----------|--------------|
 | Frontend | Next.js, React, Tailwind CSS |
 | Backend | FastAPI |
-| AI | OpenAI API, RAG |
-| Database | PostgreSQL + pgvector |
-| Search | Hybrid Search + Semantic Search |
-| Authentication | JWT |
-| Deployment | Production |
+| Database | PostgreSQL (pgvector) |
+| AI | OpenAI API, LangChain, RAG |
+| Deployment | Render, Cloudflare |
 
-🔗 **Live:** https://www.aidataengineer.io
+**Highlights**
+
+- Developed AI-powered search functionality.
+- Integrated OpenAI-based learning assistant.
+- Implemented RAG for intelligent content retrieval.
+- Built scalable backend APIs using FastAPI.
+- Designed responsive UI with Next.js.
+
+</details>
 
 ---
 
-## 💻 LeetData AI
+<details>
+<summary><b>💻 LeetData AI – AI Interview Preparation Platform</b></summary>
 
-> **AI-powered interview preparation platform for Coding, SQL, System Design and AI learning.**
+<br>
+
+### 📖 Overview
+
+LeetData AI is an intelligent interview preparation platform that helps developers prepare for coding, SQL, system design, and AI interviews.
 
 ### ✨ Features
 
-- AI Coding Assistant
-- SQL Interview Preparation
-- System Design Learning
-- Personalized AI Tutor
-- Cloudflare Workers Backend
-- OpenAI Integration
-- Responsive Next.js UI
+- 🤖 AI Interview Assistant
+- 📚 Learning Modules
+- 💬 Intelligent Chat Interface
+- 🔍 AI Search
+- ⚡ Fast Response APIs
+- 📱 Responsive User Interface
 
-### ⚙ Tech Stack
+### 🛠 Tech Stack
 
-<p>
+| Category | Technologies |
+|-----------|--------------|
+| Frontend | Next.js, React |
+| Backend | FastAPI |
+| AI | OpenAI API |
+| Database | PostgreSQL |
 
-<img src="https://skillicons.dev/icons?i=nextjs,typescript,cloudflare,git"/>
+**Highlights**
 
-</p>
+- Developed AI-powered learning features.
+- Integrated backend APIs.
+- Improved search experience.
+- Designed scalable frontend components.
 
-🔗 **Website:** https://leetdata.ai
+</details>
 
 ---
 
-## 🧠 MRI Sclerosis Detection using Deep Learning
+<details>
+<summary><b>🧠 CNN Architectures for Sclerosis Detection in MRI Data</b></summary>
 
-### IEEE International Conference Publication (2024)
+<br>
 
-Developed an AI-based system for sclerosis detection in MRI images using Deep Learning.
+### 📖 Overview
 
-### Technologies Used
+Research project focused on detecting sclerosis from MRI images using deep learning models. Published as an IEEE conference paper.
+
+### 🛠 Technologies
 
 - Python
 - TensorFlow
+- Flask
+- React
 - CNN
 - ResNet
 - VGG
 - Inception
-- Flask
-- React
 
 ### Highlights
 
-✔ Image Preprocessing
+- MRI image preprocessing
+- Data augmentation
+- CNN model training
+- Model evaluation
+- IEEE Conference Publication
 
-✔ Data Augmentation
+</details>
 
-✔ CNN Training
+---
 
-✔ Model Evaluation
+<details>
+<summary><b>🤖 AI Chatbot with RAG</b></summary>
 
-✔ Research Publication
+<br>
+
+### 📖 Overview
+
+Built an AI chatbot during internship capable of retrieving information from documents using Retrieval-Augmented Generation.
+
+### Features
+
+- PDF Processing
+- Web Scraping
+- OpenAI Integration
+- Vector Database
+- Intelligent Document Search
+
+### Tech Stack
+
+- Python
+- React
+- Vite
+- LangChain
+- OpenAI API
+- RAG
+
+</details>
 
 ---
 
@@ -464,147 +381,64 @@ Developed an AI-based system for sclerosis detection in MRI images using Deep Le
 
 ## 👨‍💻 Software Engineer
 
-### Data Engineering Weekly
+**Data Engineering Weekly**
 
-**Oct 2025 – Present**
-
-### Responsibilities
-
-- 🚀 Developed AIDataEngineer platform
-- 🤖 Built AI-powered search systems
-- 🔍 Implemented Hybrid Search
-- 🧠 Developed RAG pipelines
-- ⚡ Designed FastAPI services
-- 🌐 Built scalable Next.js applications
-- 🔐 Authentication & Security
-- 📊 AI Learning Agents
-- 🚀 CI/CD Deployment
-- 🤝 Agile Development
+- Developed AI-powered learning applications.
+- Built scalable FastAPI backend services.
+- Implemented AI search and RAG solutions.
+- Developed modern Next.js applications.
+- Integrated OpenAI APIs.
+- Improved platform security and deployment workflows.
 
 ---
 
-## 👨‍💻 Developer Intern
+## 👨‍💻 AI / Full Stack Developer Intern
 
-### Workiy Technologies Pvt Ltd
+**Workiy Technologies**
 
-**Jul 2024 – Aug 2024**
-
-### Responsibilities
-
-- Built AI Chatbots
-- Integrated OpenAI APIs
-- Designed chatbot workflows
-- Developed RAG applications
-- Backend API Integration
-- Agile Team Collaboration
+- Developed AI chatbot solutions.
+- Implemented Retrieval-Augmented Generation (RAG).
+- Built React frontend interfaces.
+- Integrated OpenAI APIs.
+- Worked with vector databases and document retrieval.
 
 ---
 
 # 🎓 Education
 
-## 🎓 Bachelor of Technology
+<table>
+
+<tr>
+
+<td width="70%" valign="top">
+
+## Bachelor of Technology (B.Tech)
 
 ### Artificial Intelligence & Data Science
 
-🏫 **St. Joseph's Institute of Technology**
+**🏫 St. Joseph's Institute of Technology**
 
-📍 Chennai, Tamil Nadu
+📍 OMR, Chennai, Tamil Nadu
+
+📅 **Graduated:** 2025
+
+</td>
+
+<td width="30%" valign="top">
+
+### 📊 Academic Performance
 
 | Qualification | Score |
-|---------------|------:|
-| CGPA | **7.79** |
-| Higher Secondary | **83.3%** |
-| SSLC | **71.8%** |
+|--------------|------:|
+| 🎓 B.Tech (CGPA) | **7.79 / 10** |
+| 🏫 HSC | **83.3%** |
+| 📘 SSLC | **71.8%** |
 
----
+</td>
 
-# 🏅 Certifications
+</tr>
 
-<div align="center">
-
-| Certification | Status |
-|---------------|--------|
-| ☁ AWS Cloud Fundamentals | ✅ |
-| 🐍 Python Full Stack Development | ✅ |
-| 📖 Cambridge English B2 | ✅ |
-| 🏆 IEEE International Publication | ✅ |
-
-</div>
-
----
-
-# 🏆 Achievements
-
-🥇 Published an IEEE International Conference Research Paper
-
-🚀 Built AI-powered production applications
-
-🤖 Developed LLM & RAG-based learning platforms
-
-⚡ Designed scalable FastAPI backends
-
-🌐 Developed enterprise-grade Next.js applications
-
-🔍 Built semantic search using PostgreSQL (pgvector)
-
-🎯 Created AI interview preparation platform
-
----
-
-# 📖 Research Publication
-
-## CNN Architectures for Sclerosis Detection in MRI Data Using Deep Learning
-
-**Published in IEEE International Conference (2024)**
-
-### Research Areas
-
-- Medical AI
-- Computer Vision
-- Deep Learning
-- CNN Architectures
-- MRI Image Processing
-- Healthcare AI
-
----
-
-# 🌟 Professional Highlights
-
-```yaml
-Software Development:
-  ✔ Full Stack Development
-  ✔ Backend Engineering
-  ✔ REST API Development
-  ✔ Database Design
-
-Artificial Intelligence:
-  ✔ OpenAI APIs
-  ✔ RAG
-  ✔ LLM Applications
-  ✔ AI Agents
-  ✔ Prompt Engineering
-
-Cloud & DevOps:
-  ✔ Git
-  ✔ GitHub
-  ✔ Cloudflare
-  ✔ Docker
-
-Research:
-  ✔ IEEE Publication
-  ✔ Deep Learning
-  ✔ Computer Vision
-```
-
----
-
-# 📌 Featured Technologies
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,fastapi,nextjs,react,typescript,postgres,docker,git,github,aws,tensorflow"/>
-
-</div>
+</table>
 
 ---
 ---
@@ -629,7 +463,7 @@ Research:
 
 ---
 
-# 📈 GitHub Contribution Graph
+# 📈 Contribution Activity
 
 <div align="center">
 
@@ -639,7 +473,7 @@ Research:
 
 ---
 
-# 🏆 GitHub Trophies
+# 🏆 GitHub Achievements
 
 <div align="center">
 
@@ -649,114 +483,84 @@ Research:
 
 ---
 
-# 💻 GitHub Profile
+# 🏅 Certifications & Achievements
+
+### 📜 Certifications
+
+| Certification | Organization |
+|----------------|--------------|
+| 🐍 Python Full Stack Development | Professional Certification |
+| ☁️ AWS Cloud Fundamentals | AWS |
+| 🇬🇧 Cambridge English – B2 Business Vantage | Cambridge |
+
+---
+
+### 🏆 Achievements
+
+- 📄 IEEE International Conference Publication (2024)
+- 🤖 Developed AI-powered enterprise applications
+- 🚀 Built scalable AI search platforms
+- 💻 Production experience with FastAPI & Next.js
+- 🔍 Implemented Retrieval-Augmented Generation (RAG)
+- 🌐 Built intelligent web applications using OpenAI APIs
+
+---
+
+# 📚 Research Publication
+
+## CNN Architectures for Sclerosis Detection in MRI Data Using Deep Learning
+
+**IEEE International Conference Publication – 2024**
+
+### Research Areas
+
+- Artificial Intelligence
+- Computer Vision
+- Deep Learning
+- Medical Image Processing
+- CNN Architectures
+- MRI Data Analysis
+
+---
+
+# 🎯 Current Goals
+
+```yaml
+2026 Goals:
+  - Build enterprise AI applications
+  - Contribute to open source
+  - Master AI Agents
+  - Learn Kubernetes
+  - Improve System Design
+  - Explore Cloud Architecture
+```
+
+---
+
+# 🤝 Let's Connect
 
 <div align="center">
 
 <a href="https://github.com/Kesavan714">
-<img src="https://img.shields.io/badge/GitHub-Kesavan714-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<br><br>
-
-<a href="https://github.com/Kesavan714?tab=repositories">
-<img src="https://img.shields.io/badge/Public%20Repositories-View%20Projects-2563EB?style=for-the-badge"/>
-</a>
-
-<a href="https://github.com/Kesavan714?tab=overview">
-<img src="https://img.shields.io/badge/Profile-Overview-7C3AED?style=for-the-badge"/>
-</a>
-
-<a href="https://github.com/Kesavan714?tab=stars">
-<img src="https://img.shields.io/badge/Starred-Repositories-F59E0B?style=for-the-badge"/>
-</a>
-
-</div>
-
----
-
-# 🚀 GitHub Highlights
-
-✨ Building production-ready AI applications
-
-🤖 Developing LLM & RAG solutions
-
-⚡ Designing scalable FastAPI backends
-
-🌐 Building modern Next.js applications
-
-📚 Exploring AI Agents & Multi-Agent Systems
-
-🚀 Passionate about Open Source and Software Engineering
-
----
-
-# 🎯 2026 Goals
-
-- 🚀 Become a Senior Software Engineer
-- 🤖 Master AI Agents & LLM Engineering
-- ☁ Earn AWS Solution Architect Certification
-- 🏗 Learn Kubernetes & Cloud-Native Architecture
-- 🌍 Contribute to Open Source Projects
-- 📚 Publish More Technical Articles
-- 💡 Build Enterprise AI Products
-- 🚀 Develop Impactful AI Solutions
-
----
-
-# 🤝 Open to Collaborate
-
-I'm interested in collaborating on:
-
-- 🤖 Artificial Intelligence
-- 🧠 LLM Applications
-- 🔍 Semantic Search
-- 🚀 Retrieval-Augmented Generation (RAG)
-- ⚡ Backend Development
-- 🌐 Full Stack Applications
-- ☁ Cloud-Native Solutions
-- 📊 Data Engineering Platforms
-- 🛠 Developer Tools
-- 💼 SaaS Products
-
----
-
-# 📬 Contact Me
-
-<div align="center">
-
-<a href="mailto:kesavan1446@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-Kesavan714-181717?style=for-the-badge&logo=github"/>
 </a>
 
 <a href="https://www.linkedin.com/in/kesavan-m-24a2ab250">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Kesavan_M-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="https://github.com/Kesavan714">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<a href="mailto:kesavan1446@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-kesavan1446@gmail.com-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 
 </div>
 
 ---
 
-# 💭 Favorite Quote
-
 <div align="center">
 
-### *"Building intelligent software that transforms ideas into scalable AI solutions."*
+### 💡 *"Building reliable software today while engineering intelligent solutions for tomorrow."*
 
-</div>
-
----
-
-# 🌟 Thanks for Visiting!
-
-<div align="center">
-
-### ⭐ If you like my work, consider following my GitHub profile!
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:4F46E5,50:7C3AED,100:2563EB&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:8B0000,30:B22222,60:DC143C,100:FF7F50"/>
 
 </div>
