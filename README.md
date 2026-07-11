@@ -443,97 +443,62 @@ Built an AI chatbot during internship capable of retrieving information from doc
 ---
 ---
 
-# 📊 GitHub Analytics
+# 🐍 GitHub Contribution Snake
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Kesavan714&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<picture>
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Kesavan714&theme=tokyonight&hide_border=true"/>
+<source
+media="(prefers-color-scheme: dark)"
+srcset="https://raw.githubusercontent.com/Kesavan714/Kesavan714/output/github-contribution-grid-snake-dark.svg"/>
 
-</div>
+<source
+media="(prefers-color-scheme: light)"
+srcset="https://raw.githubusercontent.com/Kesavan714/Kesavan714/output/github-contribution-grid-snake.svg"/>
 
-<br>
+<img
+alt="GitHub Contribution Snake"
+src="https://raw.githubusercontent.com/Kesavan714/Kesavan714/output/github-contribution-grid-snake-dark.svg"/>
 
-<div align="center">
-
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kesavan714&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kesavan714&theme=tokyo-night&hide_border=true"/>
+</picture>
 
 </div>
 
 ---
 
-# 🏆 GitHub Achievements
+# 🏆 Achievements
 
-<div align="center">
+- 📄 Published an **IEEE International Conference Paper (2024)** on **CNN Architectures for Sclerosis Detection in MRI Data Using Deep Learning**.
 
-<img src="https://github-profile-trophy.vercel.app/?username=Kesavan714&theme=algolia&column=4&margin-w=15&margin-h=15"/>
+- 🤖 Developed production-ready AI-powered applications using **OpenAI APIs**, **Large Language Models (LLMs)**, and **Retrieval-Augmented Generation (RAG)**.
 
-</div>
+- 🚀 Built scalable web applications using **FastAPI**, **Next.js**, and **PostgreSQL (pgvector)**.
 
----
+- 🔍 Implemented intelligent search systems with **Semantic Search** and **Vector Databases**.
 
-# 🏅 Certifications & Achievements
-
-### 📜 Certifications
-
-| Certification | Organization |
-|----------------|--------------|
-| 🐍 Python Full Stack Development | Professional Certification |
-| ☁️ AWS Cloud Fundamentals | AWS |
-| 🇬🇧 Cambridge English – B2 Business Vantage | Cambridge |
+- 💬 Developed AI chatbots with context-aware conversations using **OpenAI APIs** and **LangChain**.
 
 ---
 
-### 🏆 Achievements
+# 📜 Certifications
 
-- 📄 IEEE International Conference Publication (2024)
-- 🤖 Developed AI-powered enterprise applications
-- 🚀 Built scalable AI search platforms
-- 💻 Production experience with FastAPI & Next.js
-- 🔍 Implemented Retrieval-Augmented Generation (RAG)
-- 🌐 Built intelligent web applications using OpenAI APIs
-
----
-
-# 📚 Research Publication
-
-## CNN Architectures for Sclerosis Detection in MRI Data Using Deep Learning
-
-**IEEE International Conference Publication – 2024**
-
-### Research Areas
-
-- Artificial Intelligence
-- Computer Vision
-- Deep Learning
-- Medical Image Processing
-- CNN Architectures
-- MRI Data Analysis
+| Certification | Status |
+|---------------|--------|
+| 🐍 Python Full Stack Development | ✅ |
+| ☁️ AWS Cloud Fundamentals | ✅ |
+| 🇬🇧 Cambridge English – B2 Business Vantage | ✅ |
+| 📄 IEEE International Conference Publication (2024) | ✅ |
 
 ---
 
 # 🎯 Current Goals
 
-```yaml
-2026 Goals:
-  - Build enterprise AI applications
-  - Contribute to open source
-  - Master AI Agents
-  - Learn Kubernetes
-  - Improve System Design
-  - Explore Cloud Architecture
-```
+- 🚀 Build scalable enterprise software applications.
+- 🤖 Expand expertise in Generative AI and AI Agents.
+- ☁️ Strengthen cloud-native development skills.
+- 📚 Contribute to impactful open-source projects.
+- 🧠 Continue learning advanced software architecture and distributed systems.
 
 ---
 
@@ -542,15 +507,15 @@ Built an AI chatbot during internship capable of retrieving information from doc
 <div align="center">
 
 <a href="https://github.com/Kesavan714">
-<img src="https://img.shields.io/badge/GitHub-Kesavan714-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-Kesavan714-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/kesavan-m-24a2ab250">
-<img src="https://img.shields.io/badge/LinkedIn-Kesavan_M-0077B5?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-Kesavan_M-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:kesavan1446@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-kesavan1446@gmail.com-EA4335?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Gmail-kesavan1446@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
@@ -559,8 +524,10 @@ Built an AI chatbot during internship capable of retrieving information from doc
 
 <div align="center">
 
-### 💡 *"Building reliable software today while engineering intelligent solutions for tomorrow."*
+### 💡 *"Building reliable software through clean engineering, continuous learning, and practical AI solutions."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:8B0000,30:B22222,60:DC143C,100:FF7F50"/>
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:8B0000,25:B22222,50:DC143C,75:FF4D6D,100:FF7F50"/>
 
 </div>
