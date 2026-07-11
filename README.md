@@ -441,92 +441,98 @@ Built an AI chatbot during internship capable of retrieving information from doc
 </table>
 
 ---
----
-
-# 🐍 GitHub Contribution Snake
-
-<div align="center">
-
-<picture>
-
-<source
-media="(prefers-color-scheme: dark)"
-srcset="https://raw.githubusercontent.com/Kesavan714/Kesavan714/output/github-contribution-grid-snake-dark.svg"/>
-
-<source
-media="(prefers-color-scheme: light)"
-srcset="https://raw.githubusercontent.com/Kesavan714/Kesavan714/output/github-contribution-grid-snake.svg"/>
-
-<img
-alt="GitHub Contribution Snake"
-src="https://raw.githubusercontent.com/Kesavan714/Kesavan714/output/github-contribution-grid-snake-dark.svg"/>
-
-</picture>
-
-</div>
-
----
 
 # 🏆 Achievements
 
-- 📄 Published an **IEEE International Conference Paper (2024)** on **CNN Architectures for Sclerosis Detection in MRI Data Using Deep Learning**.
+<table>
 
-- 🤖 Developed production-ready AI-powered applications using **OpenAI APIs**, **Large Language Models (LLMs)**, and **Retrieval-Augmented Generation (RAG)**.
+<tr>
 
-- 🚀 Built scalable web applications using **FastAPI**, **Next.js**, and **PostgreSQL (pgvector)**.
+<td width="50%">
 
-- 🔍 Implemented intelligent search systems with **Semantic Search** and **Vector Databases**.
+### 📄 Research & Publications
 
-- 💬 Developed AI chatbots with context-aware conversations using **OpenAI APIs** and **LangChain**.
+- 🏅 IEEE International Conference Publication (2024)
+- 📚 Published research on CNN Architectures for MRI-based Sclerosis Detection
+- 🤖 Developed AI-powered healthcare prediction model
+- 🧠 Applied Deep Learning techniques for medical image classification
+
+</td>
+
+<td width="50%">
+
+### 💼 Professional Highlights
+
+- 🚀 Developed production-ready AI applications
+- ⚡ Built scalable FastAPI backend services
+- 🌐 Developed responsive Next.js applications
+- 🔍 Implemented Semantic Search & RAG
+- 🤖 Integrated OpenAI APIs & LLMs
+- ☁️ Worked on cloud deployment and IIS hosting
+
+</td>
+
+</tr>
+
+</table>
 
 ---
 
 # 📜 Certifications
 
 | Certification | Status |
-|---------------|--------|
+|-------------------------------|:------:|
 | 🐍 Python Full Stack Development | ✅ |
 | ☁️ AWS Cloud Fundamentals | ✅ |
 | 🇬🇧 Cambridge English – B2 Business Vantage | ✅ |
-| 📄 IEEE International Conference Publication (2024) | ✅ |
+| 📄 IEEE International Conference Publication | ✅ |
 
 ---
 
-# 🎯 Current Goals
+# 🎯 2026 Goals
 
-- 🚀 Build scalable enterprise software applications.
-- 🤖 Expand expertise in Generative AI and AI Agents.
-- ☁️ Strengthen cloud-native development skills.
-- 📚 Contribute to impactful open-source projects.
-- 🧠 Continue learning advanced software architecture and distributed systems.
+```yaml
+Professional Goals:
+
+✔ Build Enterprise AI Applications
+
+✔ Master System Design
+
+✔ Learn Kubernetes
+
+✔ Improve Cloud Architecture Skills
+
+✔ Contribute to Open Source
+
+✔ Build Production-ready AI Products
+
+✔ Explore Multi-Agent AI Systems
+```
 
 ---
 
-# 🤝 Let's Connect
+# 💻 Open Source Interests
+
+- 🤖 Artificial Intelligence
+- 🧠 Generative AI
+- ⚡ Backend Engineering
+- 🌐 Full Stack Development
+- 🔍 Intelligent Search Systems
+- ☁️ Cloud Technologies
+- 📊 Data Engineering
+- 🚀 Developer Tools
+
+---
+
+# 📈 Career Vision
+
+> Designing scalable software that combines modern engineering principles with Artificial Intelligence to build reliable, intelligent, and impactful products.
+
+---
 
 <div align="center">
 
-<a href="https://github.com/Kesavan714">
-<img src="https://img.shields.io/badge/GitHub-Kesavan714-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/kesavan-m-24a2ab250">
-<img src="https://img.shields.io/badge/LinkedIn-Kesavan_M-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:kesavan1446@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-kesavan1446@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### 💡 *"Building reliable software through clean engineering, continuous learning, and practical AI solutions."*
-
-<br>
+### ⭐ Thanks for visiting my profile!
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:8B0000,25:B22222,50:DC143C,75:FF4D6D,100:FF7F50"/>
 
